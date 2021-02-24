@@ -3,7 +3,7 @@
 https://github.com/MelnikVitali/React_search_in_Movie_Database
 
 Deploy to netlify:
-https://competent-lichterman-814b3f.netlify.app/
+https://jovial-cray-b6abd2.netlify.app/
 
 ## Technology Stack
 
